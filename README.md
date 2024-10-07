@@ -12,3 +12,9 @@ Homework2
 ![homework2](https://github.com/user-attachments/assets/8f10a5a9-10a9-4b7a-9765-4955fed6ae82)
 
 youtube url = https://youtu.be/numUVr1emco
+
+homework2-2(추가로 하나 더 찍은 영상)
+
+![homework2-2](https://github.com/user-attachments/assets/454335e8-ba56-45ea-a4f3-20fa5c49206b)
+
+youtube url = https://youtu.be/0xXLsfr4Mgk
