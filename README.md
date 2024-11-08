@@ -23,3 +23,8 @@ Homework3
 
 ![homework3_output](https://github.com/user-attachments/assets/09cb790b-e32e-4e5f-bcf2-e1769fbe16b3)
 
+Homework4
+
+![homework4](https://github.com/user-attachments/assets/7c789c85-c9c3-450d-940d-c9e4b956a4ab)
+
+
